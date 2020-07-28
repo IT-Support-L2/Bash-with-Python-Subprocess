@@ -7,5 +7,5 @@ fi
 done
 
 <<COMMENTS
-This script grep 'jane' username using regex from a log file and append the matched pattern to matched_pattern.txt
+This script grep 'jane' username using regex from a log.txt and append the matched pattern to matched_pattern.txt
 COMMENTS
